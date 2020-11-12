@@ -1,4 +1,5 @@
 -- Squares layout for XMonad.
+-- All windows are squares.
 -- To use, copy to your .xmonad/libs, then add
 --      import Squares
 -- to your xmonad.hs. Then you can use Squares as a layout.
